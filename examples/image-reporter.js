@@ -1,4 +1,4 @@
-/* eslint-disable */
+////* eslint-disable *////
 
 /*
  * To enable this image reporter, add it to your `jest.config.js` "reporters" definition:
