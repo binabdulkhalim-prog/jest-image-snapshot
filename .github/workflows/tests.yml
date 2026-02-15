@@ -1,4 +1,4 @@
-name: Tests
+*name: Tests
 
 on:
   pull_request:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  tests:
+ tests:
     strategy:
       matrix:
         node: [ '18.x', '20.x', '22.x' ]
